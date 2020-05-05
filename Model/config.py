@@ -18,5 +18,7 @@ class RobotConfig:
 
     def __init__(self):
         # 基本调用配置
+        self.APP_ID = '19689991'
+
 
 
